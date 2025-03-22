@@ -63,6 +63,8 @@ http://localhost:5000/api-docs
 
 ## 📌 Kontributor
 - **Fhira Triana Maulani**
+- **Aditya Yoga**
+- **Nur Wahyu Suci Rahayu**
 
 ---
 💡 *Feel free to contribute and improve this project!* 🎉
